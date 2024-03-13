@@ -81,7 +81,7 @@ const Banner = () => {
                 Linkedin <FaLinkedin />
               </button>
                 </a>
-                <a href="https://drive.google.com/file/d/1OjSDq3lbULQUSczdRcGSpGxcUtO9bL-e/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1TJBqcYfb48tHRgpDhF7AjQECg8pXPWHF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <button className="btn btn-sm lg:btn-lg flex justify-center items-center">
                 Resume <FaClipboard />
               </button>
